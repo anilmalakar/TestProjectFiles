@@ -9,6 +9,9 @@ namespace UILib
 {
     public class UI
     {
+        /// <summary>
+        /// UI
+        /// </summary>
         IBizData _bizData;
         public UI(IBizData bizData)
         {
