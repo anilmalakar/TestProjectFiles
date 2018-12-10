@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C91EDFA1-4683-429E-9DFA-62D3725E38E7}</ProjectGuid>
     <OutputType>Library</OutputType>
+	  <DebugType>full</DebugType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>UILib</RootNamespace>
     <AssemblyName>UILib</AssemblyName>
